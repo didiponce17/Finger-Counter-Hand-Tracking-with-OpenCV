@@ -4,7 +4,7 @@ The idea to develop this code to track the hand is to complement the myoelectric
 
 Most of the hand prostheses are entirely body-driven and purely mechanical which decreases the patients’ quality of life and does not allow refined motor control. however, the very high cost of robotic prosthetics prohibits the majority of upper limb amputees from obtaining these devices to make their life easier. 
 
-We would like to develop a cost-effective hand/forearm prosthesis by reimagining the future of accessibility by exploring how technology can better empower people who need prosthetic 
+We would like to develop a cost-effective hand/forearm prosthesis by reimagining the future of accessibility by exploring how technology can better empower people who need prosthetic. 
 
 # Hand Tracing Module
 
