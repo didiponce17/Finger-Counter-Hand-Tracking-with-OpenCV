@@ -27,6 +27,7 @@ Using serial communication to send zeros and ones based on which finger is opene
 
 For each individual finger, we are going to open and close. When testing you can make any sign or anything with your hand and it will represent that exact same gesture.  
 
+![](FingerImages/Imagen%20ceros%20.png)
 
 # Important Note: 
 
